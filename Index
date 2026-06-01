@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Monica Santos</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+         max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.65; color: #222; }
+  h1 { font-size: 1.8rem; } h2 { font-size: 1.2rem; margin-top: 1.8em; }
+  .muted { color: #666; font-size: 0.9rem; }
+  a { color: #1a6; }
+  footer { margin-top: 3em; border-top: 1px solid #eee; padding-top: 1em; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p class="muted">Last updated: June 1, 2026</p>
+
+<p>This Privacy Policy explains how the account "Monica Santos" (@monica.santos) and its operator
+("we", "us") handle information in connection with content published on Instagram, TikTok, X, and
+related platforms.</p>
+
+<h2>About this account</h2>
+<p>Monica Santos is a disclosed, AI-generated character. The images, videos, and text published are
+synthetically generated. The account is labeled as AI on the platforms where it operates.</p>
+
+<h2>Information we collect</h2>
+<p>We do not collect, store, or process personal information from people who view or interact with
+this content beyond what the platforms themselves provide. We do not run independent sign-up forms,
+newsletters, or data-collection tools through this account. Any interaction data (such as comments,
+likes, or follows) is handled by the respective platform under that platform's own privacy policy.</p>
+
+<h2>Use of platform APIs</h2>
+<p>This account uses official platform APIs (including the Instagram Graph API, the TikTok Content
+Posting API, and the X API) solely to publish content to its own accounts. We do not use these APIs
+to access, collect, or store other users' personal data.</p>
+
+<h2>Third-party platforms</h2>
+<p>Content is distributed through third-party platforms. Your interactions on those platforms are
+governed by their respective privacy policies:</p>
+<ul>
+  <li>Instagram / Meta — <a href="https://privacycenter.instagram.com/policy">Privacy Policy</a></li>
+  <li>TikTok — <a href="https://www.tiktok.com/legal/privacy-policy">Privacy Policy</a></li>
+  <li>X — <a href="https://x.com/privacy">Privacy Policy</a></li>
+</ul>
+
+<h2>Children's privacy</h2>
+<p>This content is not directed to children under 13 (or the minimum age required in your
+jurisdiction). We do not knowingly collect information from children.</p>
+
+<h2>Changes to this policy</h2>
+<p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an
+updated revision date.</p>
+
+<h2>Contact</h2>
+<p>For privacy questions, contact: <a href="mailto:ismailwright@gmail.com">ismailwright@gmail.com</a></p>
+
+<footer class="muted">
+  <p>This account is an AI-generated character. <a href="terms.html">Terms of Service</a></p>
+</footer>
+</body>
+</html>
